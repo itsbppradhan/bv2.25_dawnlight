@@ -45,9 +45,9 @@ export function Bento() {
       priority
     />
     <div className="relative space-y-3 z-10">
-      <p className="text-xl font-semibold">B Studio⁺</p>
-      <p className="text-md"> Where pixels meet imagination. </p>
-      <p className="text-sm">Coming Soon</p>
+      <p className="text-xl text-white font-semibold">B Studio⁺</p>
+      <p className="text-md text-white"> Where pixels meet imagination. </p>
+      <p className="text-sm text-white">Coming Soon</p>
     </div>
   </div>
       <div className="border space-y-3 border-gray-300 dark:border-white/20 col-start-1 row-start-5 row-span-2 md:col-start-1 md:row-start-4 md:col-span-1 md:row-span-1 bg-zinc-50 dark:bg-zinc-900 rounded-3xl p-4 md:p-10">
